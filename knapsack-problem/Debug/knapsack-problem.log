@@ -1,0 +1,10 @@
+﻿Build started 28/2/2018 16:55:04.
+     1>Project "D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\knapsack-problem\knapsack-problem.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\Debug\knapsack-problem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\Debug\knapsack-problem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\Debug\knapsack-problem.lib" /MACHINE:X86 Debug\knapsack.obj
+         knapsack-problem.vcxproj -> D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\Debug\knapsack-problem.exe
+     1>Done Building Project "D:\Works\UTeM\Semester 6\Evolutionary computing\lab\knapsack-problem\knapsack-problem\knapsack-problem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
